@@ -1,6 +1,6 @@
 // main.dart
 import 'package:flutter/material.dart';
-
+// ekam focus app , terms website
 void main() {
   runApp(const PrivacyApp());
 }
