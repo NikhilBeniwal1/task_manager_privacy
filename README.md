@@ -1,5 +1,8 @@
 # untitled
 
+this is just terms and condition page and privacy policy page for the ekam focus app
+
+
 A new Flutter project.
 
 ## Getting Started
